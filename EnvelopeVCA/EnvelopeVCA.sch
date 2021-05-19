@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "VCA with Envelope Generator by Benjie Jiao"
 Date ""
-Rev ""
+Rev "1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
