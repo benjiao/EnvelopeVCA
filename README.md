@@ -3,6 +3,8 @@ by Benjie Jiao
 
 A single synth module containing an envelope and a VCA.
 
+<img src="./EnvelopeVCA.jpg">
+
 ### Inputs
 
 *Trigger/Gate (T)* - Any trigger or gate
@@ -25,6 +27,6 @@ A single synth module containing an envelope and a VCA.
 
 **Version 1.0**
 
-The initial version. Click [here](EnvelopeVCA%201.0.pdf) for full image.
+The initial version. Click [here](https://raw.githubusercontent.com/benjiao/EnvelopeVCA/master/EnvelopeVCA%201.0.svg) for full image.
 
 <img src="./EnvelopeVCA 1.0.svg">
