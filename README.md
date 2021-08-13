@@ -30,3 +30,7 @@ A single synth module containing an envelope and a VCA.
 The initial version. Click [here](https://raw.githubusercontent.com/benjiao/EnvelopeVCA/master/EnvelopeVCA%201.0.svg) for full image.
 
 <img src="./EnvelopeVCA 1.0.svg">
+
+
+## Support Me!
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'C0C24WFYS');kofiwidget2.draw();</script> 
