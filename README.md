@@ -3,6 +3,10 @@ by Benjie Jiao
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C24WFYS)
 
+
+**DISCLAIMERS:** I'm new to Synth DIY and most of the time I do things by trial and error. Build this at your own risk. I recommend trying it out on breadboard first. The VCA on this build sometimes leaks some sounds if the input is loud enough, I recommend trying out other VCAs to fit into this build. 
+
+
 A single synth module containing an envelope and a VCA.
 
 <img src="./EnvelopeVCA.jpg">
